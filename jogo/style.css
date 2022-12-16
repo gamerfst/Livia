@@ -14,6 +14,13 @@
     text-align: center;
 }
 
+.botao{
+    border: 10px solid #111;
+    color: black;
+    margin: 10px;
+}
+
+
 
 .texto{
     text-align: center;
