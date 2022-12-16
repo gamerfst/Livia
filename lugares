@@ -1,0 +1,81 @@
+<html>
+<head>
+    <title>Livia</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="liviacss.css">
+</head>
+<body>
+
+    <header>
+
+        <div class="top">
+
+            <h1> <img class="eevee" src="imagens/eevee.gif"> </h1>
+
+            <a class="topViagens">Aqui é uma das viagens que quero fazer com você, <br>
+                sei que a qualquer lugar que estivermos juntos<br>
+                vou estar feliz e me divertir muito.
+            </a>
+
+            <nav>
+                <ul>
+
+                    <li><a href="Playlist.html"> Playlist </a></li>
+                    <li><a href="livia.html"> Home </a></li>
+                    <li><a href="fotos.html"> Fotos </a></li>
+
+                </ul>
+
+            </nav>
+
+            
+
+        </div>
+    </header>
+
+    <div class="viagens">
+
+
+        <div class="mapa-conteudo">
+
+            
+
+            <iframe class="mapa" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d102754.70000128998!2d25.
+            420630850000002!3d36.40715385!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.
+            1!3m3!1m2!1s0x1499ce86adfd9ff7%3A0xb2a761f740d68afc!2sSantorini!5e0!3m2!1spt-BR!2sbr!4v1671150363038!5m2!1spt-BR!2sbr"
+             width="450" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+             <a class="text1">
+                <h2>Ilha de Santorini (Grécia)</h2>
+                 Santorini é uma das ilhas Cíclades no Mar Ageu. Ela foi devastada por uma erupção vulcânica no século 16 A.C.,<br>
+                 moldando para sempre sua paisagem ondulada. As casas brancas, em forma de cubo, das 2 principais cidades, Fira e Oia, <br>
+                 ficam nas encostas acima da caldeira (cratera) submersa. Elas avistam o mar,<br>
+                 as ilhas menores a oeste e as praias, constituídas de seixos de lava pretos, vermelhos e brancos.
+            </a>
+
+        </div>
+
+
+        <div class="praia">
+
+            <img class="praiaVermelha" src="imagens/praia-vermelha-santorini.jpg">
+            <h2 >Praia Vermelha</h2>
+            <a>Já viu uma praia de areia vermelha? Em Santorini, a Praia Vermelha, ou Red Beach,<br>
+                é tomada por essa cor por conta de suas falésias,<br>
+                 resultado das erupções vulcânicas que formaram a ilha.<br> </a>
+            
+            <a>
+                Cara olha que foda la tem uma praia vermelha.
+            </a>
+        </div>
+        
+
+
+    </div>
+
+    
+    
+
+</body>
+</html>
