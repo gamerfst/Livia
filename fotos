@@ -1,0 +1,76 @@
+<html> 
+    <head>
+        <title>Livia</title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="liviacss.css">
+
+        
+    </head>
+    <body>
+
+        <header>
+
+            <div class="top">
+
+                <h1> <img class="eevee" src="imagens/eevee.gif"> </h1>
+
+                <nav>
+                    <ul>
+
+                        <li><a href="Playlist.html"> Playlist </a></li>
+                        <li><a href="lugares.html"> Lugares </a></li>
+                        <li><a href="livia.html"> Home </a></li>
+
+                    </ul>
+
+                </nav>
+
+                
+    
+            </div>
+
+        </header>
+
+        <div class="content">
+
+            <div class="slides">
+                <input type="radio" name="slide" id="slide1" checked>
+                <input type="radio" name="slide" id="slide2">
+                <input type="radio" name="slide" id="slide3">
+                <input type="radio" name="slide" id="slide4">
+                <input type="radio" name="slide" id="slide5">
+
+                <div class="slide s1">
+                    <img src="imagens/1.jpg">
+                </div>
+
+                <div class="slide">
+                    <img src="imagens/2.jpg">
+                </div>
+
+                <div class="slide">
+                    <img src="imagens/3.jpg">
+                </div>
+
+                <div class="slide">
+                    <img src="imagens/4.jpg">
+                </div>
+
+                <div class="slide">
+                    <img src="imagens/5.jpg">
+                </div>
+
+
+            </div>
+
+            <DIV class="navegation">
+                <label class="bar" for="slide1"></label>
+                <label class="bar" for="slide2"></label>
+                <label class="bar" for="slide3"></label>
+                <label class="bar" for="slide4"></label>
+                <label class="bar" for="slide5"></label>
+            </DIV>
+        </div>
+
+    </body>
+  </html>
