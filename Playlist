@@ -1,0 +1,54 @@
+<html>
+<head>
+    <title>Livia</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="liviacss.css">
+</head>
+<body>
+
+    <header>
+
+        <div class="top">
+
+            <h1> <img class="eevee" src="imagens/eevee.gif"> </h1>
+
+            <nav>
+                <ul>
+
+                    <li><a href="livia.html"> Home </a></li>
+                    <li><a href="lugares.html"> Lugares </a></li>
+                    <li><a href="fotos.html"> Fotos </a></li>
+
+                </ul>
+
+            </nav>
+
+            
+
+        </div>
+    </header>
+
+   <div class="play">
+
+    <iframe class="spotify" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4WmfNbLXLkLOpcpV7Tb73M?utm_source=generator&theme=0" 
+    width="600" height="600" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+        <a class="text1">
+            <h2>A playlist que me lembra você</h2>
+             Todas essas musicas retratam momentos em que penso em você<br>
+             em momentos tristes ou felizes, sempre que penso em você<br>
+             essas musicas vem a mim.<br>
+             <br>
+             Especialmente a musica do nanasai<br>
+                <br>
+             <iframe class="musica" width="560" height="315" src="https://www.youtube.com/embed/uLiEvFp5mco" title="YouTube video player" 
+             frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </a>
+
+   </div>
+
+    
+    
+
+</body>
+</html>
