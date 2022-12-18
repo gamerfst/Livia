@@ -166,8 +166,8 @@
     }
 
     .content{
-        height: 1000px;
-        width: 800px;
+        height: 600px;
+        width: 500px;
         border-radius: 20px;
         overflow: hidden;
         position: absolute;
